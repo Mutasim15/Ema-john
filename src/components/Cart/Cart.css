@@ -8,3 +8,13 @@
     position: sticky;
     top: 0;
 }
+
+.btn_clear_cart{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #FF3030;
+    color: white;
+    align-items: center;
+
+}
